@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# models
+*.h5
+*.pt
+*.pth
+
+# data
+data/
+dataset/
+outputs/
+predictions/
+
